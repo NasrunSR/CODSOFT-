@@ -9,6 +9,6 @@ A machine learning model to predict whether a credit card is fraud or authentic.
 Link to Dataset: https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 # TASK 3 - CUSTOMER CHURN PREDICTION
-We are using a Bank Customer Churn Prediction dataset to build a model for customer churn. Customer churn is where a customer has stopped using a particular product or service, whereas in here we are prediciting if a particular will leave the bank or not. Therefore, we are using Random Forest Classifier which is a Supervised Machine Learning Algorithm.
+We are using a Bank Customer Churn Prediction dataset to build a model for customer churn. Customer churn is where a customer has stopped using a particular product or service, whereas in here we are predicting if a particular will leave the bank or not. Therefore, we are using Random Forest Classifier which is a Supervised Machine Learning Algorithm.
 
 Link to Dataset: https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
